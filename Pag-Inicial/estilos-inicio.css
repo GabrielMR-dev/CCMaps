@@ -53,6 +53,7 @@ body {
   background-repeat: no-repeat;
   background-size: 12.5rem;
   transform: rotate(-14deg);
+  transition: all 0.4s ease
 }
 #botao-de-comeco:hover {
   width: 15rem;
